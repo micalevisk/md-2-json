@@ -1,8 +1,12 @@
-# MARKDOWN-TO-JSON
+# md-2-json
 
 A simple library to convert markdown content to JSON object.
 
 ## Usage
+
+```bash
+npm install git+https://git@github.com/micalevisk/md-2-json
+```
 
 ### Simple content
 
